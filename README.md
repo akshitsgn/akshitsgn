@@ -31,14 +31,13 @@
 #### 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshitsgn&show_icons=true&theme=radical&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akshitsgn&theme=radical&hide_border=false)
-![Contributions](https://github-contribution-graph.ez4o.com/?username=akshitsgn&theme=radical)
-
 ---
+
 
 ### 📬 Get in Touch  
 
 - 📧 Email: [akshitthakur.230319@gmail.com](mailto:akshitthakur.230319@gmail.com)  
-- 🔗 LinkedIn: [Akshit Thakur](https://www.linkedin.com/in/akshitsgn)
+- 🔗 LinkedIn: [Akshit Thakur](https://www.linkedin.com/in/Akshit Thakur)
 
 ---
 
